@@ -467,7 +467,7 @@ CMD ["streamlit", "run", "ui/app.py", "--server.address=0.0.0.0"]
 
 ## Quick Start
 \`\`\`bash
-git clone https://github.com/username/alpha-1000.git
+git clone https://github.com/username/AlphaThousand.git
 cd alpha-1000
 ./scripts/setup.sh
 streamlit run ui/app.py
